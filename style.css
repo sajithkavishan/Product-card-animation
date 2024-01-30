@@ -23,10 +23,10 @@ body {
     position: absolute;
 }
 
-img {
+.product-img {
     width: 400px;
     height: 500px;
-    background: rgb(139, 135, 135);
+    background: rgb(113, 113, 113);
     position: relative;
     
 }
