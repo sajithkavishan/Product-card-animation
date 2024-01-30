@@ -54,6 +54,21 @@ img {
     user-select: none;
 }
 
+.tag {
+    position: absolute;
+    top: 20px;
+    left: -10px;
+    transform-origin: left;
+    transform: rotate(-20deg);
+    text-transform: capitalize;
+    color: aliceblue;
+    padding: 5px 10px;
+    width: 100px;
+    font-size: 18px;
+    text-align: center;
+    background: rgb(68, 68, 68);
+}
+
 .product-listing {
     width: 60%;
     min-height: 500px;
