@@ -20,7 +20,7 @@ body {
 body::before {
     content: '';
     position: absolute;
-    left: 50%;
+    left: 0%;
     transform: translateX(-50%) skewX(-15deg);
     width: 20px;
     height: 100%;
@@ -33,7 +33,7 @@ body::before {
     position: relative;
     width: 1000px;
     min-width: 350px;
-    min-height: 500px;
+    min-height: 600px;
     height: auto;
     display: flex;
     justify-content: center;
@@ -42,8 +42,8 @@ body::before {
 
 .product-img {
     width: 40%;
-    height: 500px;
-    background:#11009E;
+    height: 600px;
+    /* background:#11009E; */
     position: relative;
 }
 
@@ -71,13 +71,18 @@ img {
 
 .product-listing {
     width: 60%;
-    min-height: 500px;
+    min-height: 600px;
     height: auto;
     background: rgb(68, 68, 68);
     padding: 40px;
     display: flex;
     justify-content: center;
     color: #FAE7F3;
+}
+
+.content {
+    display: grid;
+    align-items: center;
 }
 
 .name {
@@ -95,4 +100,43 @@ img {
     font-size: 70px;
     font-weight: 100;
     margin-bottom: 20px;
+}
+
+.btn-and-rating {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.rating {
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rating i {
+    font-size: 20px;
+    margin: 0 2px;
+}
+
+button {
+    background: #FAE7F3;
+    color: rgb(68, 68, 68);
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: all 0.2s ease; 
+}
+
+button:hover {
+    background-color: #E6B9DE;
+    transition: 0.2s ease; 
+}
+
+button:active {
+    transform: scale(1.05);
+    transition: all  0.1ms ease;
 }
