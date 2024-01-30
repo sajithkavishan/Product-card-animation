@@ -79,3 +79,8 @@ img {
     justify-content: center;
     color: #FAE7F3;
 }
+
+.name {
+    font-size: 70px;
+    text-transform: capitalize;
+}
