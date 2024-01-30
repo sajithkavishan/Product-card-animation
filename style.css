@@ -43,7 +43,7 @@ body::before {
 .product-img {
     width: 40%;
     height: 500px;
-    background: rgb(11, 0, 71);
+    background:#11009E;
     position: relative;
 }
 
