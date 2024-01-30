@@ -35,7 +35,7 @@ body::before {
     min-width: 350px;
     min-height: 500px;
     height: auto;
-    display: felx;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
@@ -43,7 +43,7 @@ body::before {
 .product-img {
     width: 40%;
     height: 500px;
-    background: white;
+    background: rgb(11, 0, 71);
     position: relative;
 }
 
