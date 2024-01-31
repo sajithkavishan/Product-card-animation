@@ -1,5 +1,6 @@
-Project Title: Product Card Showcase
-Overview:
+#Project Title: Product Card Showcase
+
+#Overview:
 Welcome to the CSS Product Card Showcase! This project demonstrates a stylish and interactive product card created using HTML and CSS. With smooth animations, engaging hover effects, a carefully selected color palette, and subtle motion, this product card is designed to captivate users and showcase a product in a visually appealing way.
 
 Demo:
