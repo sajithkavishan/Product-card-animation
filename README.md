@@ -14,21 +14,17 @@ https://github.com/sajithkavishan/Card-Hover-Effects-/assets/131157256/f5ef5837-
 
 ## Features
 
-- Modern Stylish Display: Immerse yourself in a modern and stylish visual presentation.
-                          The design reflects contemporary aesthetics, providing users with an engaging and up-to-date experience.
-- Functionality with Beauty: Each login and sign-up interaction is designed to be not only efficient but also a visually pleasing experience.
-- User-Friendly Navigation: Effortlessly navigate through LensVerse with a hover-activated navigation bar for a smooth user experience.
+- Animation: Fluid entrance animation for the product card.
+             Subtle fade-in effect for product details.
+- Hover Effects: Product image zoom on hover for a closer look.
+                 Gradient overlay on the card for a dynamic feel.
 - Hover Interactivity: The card responds to user interaction, with a subtle rotation animation and changes in opacity on hover, enhancing the overall interactivity and user engagement.
 - Code Organization: The CSS code is well-organized and commented, making it easy to understand and maintain.
+- Color Palette: Harmonious blend of soothing blues and vibrant oranges to create a modern and eye-catching design.
 - Motion Effects: Enjoy subtle yet enchanting motion effects that enhance the visual appeal.
 - Seamless Integration: Implementing these effects with CSS and HTML, "Card Magic" is a testament to the art of modern web design.
 
-##
-
 ## Technologies Used
-
--HTML
--CSS
 
 ![Screenshot (17)](https://biq.cloud/wp-content/uploads/2021/03/355-html-and-CSS.gif)
 
