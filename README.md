@@ -10,7 +10,8 @@ https://github.com/sajithkavishan/Card-Hover-Effects-/assets/131157256/f5ef5837-
 
 ## Images
 
-![Capture_2024_01_25_03_03_57_928](https://github.com/sajithkavishan/Card-Hover-Effects-/assets/131157256/45bcd3b4-2e25-4192-b95a-b9503963e1ee)
+![Product card animation - Google Chrome 1_31_2024 5_29_33 PM](https://github.com/sajithkavishan/Product-card-animation/assets/131157256/b275afa2-757e-4aa0-99e6-617b5d1fd8e8)
+
 
 ## Features
 
