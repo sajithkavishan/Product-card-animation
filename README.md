@@ -6,7 +6,8 @@ Welcome to the CSS Product Card Showcase! This project demonstrates a stylish an
 
 Watch my demo video to see these animations in action:
 
-https://github.com/sajithkavishan/Card-Hover-Effects-/assets/131157256/f5ef5837-6dec-478b-b57d-7703eadf48af
+[https://github.com/sajithkavishan/Card-Hover-Effects-/assets/131157256/f5ef5837-6dec-478b-b57d-7703eadf48af](https://github.com/sajithkavishan/Product-card-animation/assets/131157256/88d7ea7c-2173-4b84-a12d-f185633cb348
+)
 
 ## Images
 
