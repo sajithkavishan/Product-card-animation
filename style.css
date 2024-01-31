@@ -28,7 +28,7 @@ body::before {
     border-left: 60px solid #FAE7F3;
     border-right: 30px solid #FAE7F3;
     opacity: 0;
-    transform: slide 2s 1.5s forwards 1;
+    animation: slide 2s 0.5s forwards 1;
 }
 
 @keyframes slide {
@@ -112,10 +112,10 @@ body::before {
     }
 }
 
-/* .content {
+.content {
     display: grid;
     align-items: center;
-} */
+}
 
 .name {
     font-size: 70px;
