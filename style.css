@@ -81,10 +81,10 @@ body::before {
     color: #FAE7F3;
 }
 
-/* .content {
+.content {
     display: grid;
     align-items: center;
-} */
+}
 
 .name {
     font-size: 70px;
